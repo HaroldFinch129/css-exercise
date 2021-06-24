@@ -1,0 +1,38 @@
+.box1{
+    border: 4px solid black;
+    font-size: 16px;
+    width: 3em;
+    height: 3em;
+
+}
+.box2{
+    margin-top: 5px;
+    border: 4px solid black;
+    font-size: 32px;
+    width: 3em;
+    height: 3em;
+    
+}
+
+.things{
+    width: 1em;
+    height: 1em;
+    border: 2px solid blue;
+}
+
+html {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 16px;
+}
+
+.parent{
+    font-size: 32px;
+    width: 200px;
+    height: 200px;
+    border: 4px solid green;
+}
+.child{
+    width: 50%;
+    height: 50%;
+    border: 2px solid red;
+}
